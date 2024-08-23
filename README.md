@@ -1,5 +1,5 @@
 # my-summer-in-markdown
-<<<<<<< HEAD
+
 ## Introduction
 My name is Jeremy Tzun
 I am in 10th grade
